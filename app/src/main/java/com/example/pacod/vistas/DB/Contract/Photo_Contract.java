@@ -54,7 +54,5 @@ public class Photo_Contract {
         // Métodos auxiliares
     }
 
-
-
-
 }
+
